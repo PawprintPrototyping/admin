@@ -13,7 +13,7 @@ As members of the hacking community, we the representatives of Totally Legit Age
     2. Foster a network for innovative thinking, education, and creative endeavors in our local community and the hacker community at large.
 2. Notwithstanding anything herein to the contrary, Pawprint Prototyping is organized exclusively for charitable, educational, and scientific purposes within the meaning of Section 501(c)(3) of the U.S. Internal Revenue Code.
 3. Notwithstanding anything herein to the contrary, Pawprint Prototyping shall not, except to an insubstantial degree, engage in any activities or exercise any powers that are in themselves not in furtherance of one or more exempt purposes within the meaning of Section 501(c)(3) of the U.S. Internal Revenue Code.
-3. Pawprint Prototyping shall continuously maintain in the State of California a registered office and a registered agent whose business office, is identical with such registered office. The registered office shall be the physical location of the Hackerspace. In the event that Pawprint Prototyping does not have a physical location, the registered office shall be determined by the Board of Directors.
+4. Pawprint Prototyping shall continuously maintain in the State of California a registered office and a registered agent whose business office, is identical with such registered office. The registered office shall be the physical location of the Hackerspace. In the event that Pawprint Prototyping does not have a physical location, the registered office shall be determined by the Board of Directors.
 
 ## 2. Users and Members
 1. The Hackerspace shall comprise of the following types of persons (herein also referred to as Users) who may utilize its physical facilities (herein also referred to as the Space):
@@ -44,8 +44,8 @@ As members of the hacking community, we the representatives of Totally Legit Age
     1. Any Member may terminate or suspend their own Membership by giving written notice to the Board of Directors. Such Member shall retain Guest status until they decide to restore their Membership.
     2. Membership is suspended by the Hackerspace in the following way:
         1. If a Member does not pay the Membership Fee by the date set in the current Membership Agreement, or owes any other monetary debt to the Hackerspace deemed delinquent by the Board of Directors, they may have their Membership suspended.
-        3. After the nominated date, the Suspended Member shall, without being released from the obligation of payment of any sums due to the Hackerspace, have no Membership rights and shall not be entitled to participate in any Hackerspace activities.
-        4. If the Suspended Member repays the debt owed to the Hackerspace, they may have their Membership resumed with all previous rights and privileges, at the discretion of the Board of Directors.
+        2. After the nominated date, the Suspended Member shall, without being released from the obligation of payment of any sums due to the Hackerspace, have no Membership rights and shall not be entitled to participate in any Hackerspace activities.
+        3. If the Suspended Member repays the debt owed to the Hackerspace, they may have their Membership resumed with all previous rights and privileges, at the discretion of the Board of Directors.
     3. Membership is terminated by the Hackerspace in the following way:
         1. If the Board of Directors is of the opinion that a Member breached or is breaching the Rules or acting in a manner inappropriate to the purposes of the Hackerspace, the Board of Directors will give a written notice of misconduct to the Member. This notice must:
             1. Explain how the Member breached, is breaching the Rules or acting in a manner inappropriate to the purposes of the Hackerspace;
@@ -74,9 +74,9 @@ As members of the hacking community, we the representatives of Totally Legit Age
 ## 3. Management
 1. The Hackerspace shall have a management committee (herein also referred to as the Board of Directors, or simply the Board) comprised of, at a minimum, the following Director positions (herein also referred to as Core Director positions):
     1. President;
-    3. Treasurer;
-    4. Secretary;
-    5. Chief Technology Officer.
+    2. Treasurer;
+    3. Secretary;
+    4. Chief Technology Officer.
 2. Supplemental Director positions may be added to or removed from the Board of Directors to fulfill Business needs of the Hackerspace or to fairly represent Member interests. The addition and removal of such positions shall require a vote of the Membership. Core Director positions may not be added or removed without amending these Bylaws.
 3. Nomination and Election of Board Members
     1. The Hackerspace shall hold a special Monthly Meeting, or part of a Monthly Meeting, to select Members for Director positions (herein also referred to as an Elections Meeting or simply Elections).
@@ -92,7 +92,7 @@ As members of the hacking community, we the representatives of Totally Legit Age
     7. To be valid, nominations must be expressed to the current Secretary using any of the following methods:
         1. By voice, whether in public during the Monthly Meeting or in private;
         2. Via email, whether publicly on the established communications channels or via private emails;
-        4. Any such method the Secretary will find acceptable.
+        3. Any such method the Secretary will find acceptable.
     8. Nominees must accept the nomination before they can be included on the ballot.
     9. A Member may nominate themselves for a Director position.
     10. A nominee may, at any point before the vote is called, rescind their nomination.
@@ -260,6 +260,7 @@ Be careful in the words that you choose. Remember that sexist, racist, and other
 If a member or guest engages in behavior that violates the anti-harassment policy, the board of directors may take any action they deem appropriate, including warning the offender or expulsion from the space.
 
 
+<!-- these bylaws best viewed as rendered markdown -->
 <style type="text/css">
    /* Indent Formatting */
    /* Format: 1-a-i-A-1-I */
