@@ -181,12 +181,21 @@ As members of the hacking community, we the representatives of Totally Legit Age
     3. The new motion is allotted a brief discussion period established by the chairperson upon being seconded.
     4. At the conclusion of the discussion, the new motion is automatically tabled until the next Meeting. After tabling, the motion must be announced to all currently active Members (via mailing list or other appropriate medium) and added to the agenda of the next Meeting. 
     5. A motion may avoid tabling and be held to a vote at any particular Meeting by a vote of the Membership.
-    6. New motions may be proposed outside of Meetings (via mailing list of other appropriate medium). The motion must be proposed at least 24 hours before a Meeting to be added to the agenda of that Meeting. Motions added to the agenda still need to be seconded at the Meeting in order to be discussed.
+    6. Asynchronously Submitted Motions
+        1. Motions may be submitted asynchronously to the Board in writing and in advance of any regular membership meeting.
+        2. Valid means of asynchronous submissions include but are not limited to: electronic mail, Telegram messenger, Signal messenger, written letter, or SMS.  Verbal communication is not sufficient.
+        3. Members submitting a motion asynchronously must solicit another Member to second their motion before submission.  The Member who seconds the asynchronously submitted motion must be included in that submission.
+        4. All asynchronously submitted motions are to be advertised to the entire Member body by the Board within 72 hours of submission.
+        5. The board shall also begin to solicit proxy votes from members on asynchronously submitted motions as soon as it is advertised to the Member body.  Proxy votes are to be collected in accordance with these bylaws.
+        6. Asynchronously submitted motions must be discussed at the next meeting.
 3. Voting
-    1. Appropriate quorum is required to hold a Meeting where motions may be voted upon.
-    2. If within a half hour after the time appointed for the Meeting a quorum is not met, the Meeting shall continue without voting procedures or it shall be dissolved.
     3. Teleconferencing members are considered present at a Meeting, count toward quorum and may vote.
     4. Votes for specific motions may be submitted by proxy. Appropriate proxies include other Members, mail-in (or email-in) voting and open announcement. The vote by proxy only affects the quorum for the motion in question and has no effect on quorum for the rest of the Meeting.
+    3. Votes for specific motions may be submitted by proxy.  A vote by proxy only affects the quorum for the motion in question, and has no effect on quorum for the remainder of the meeting.  Appropriate proxies include:
+        1. Other Members, elected in writing to the Secretary;
+        2. In writing via mail or electronic mail;
+        3. Online polling applications managed by the CTO;
+        4. Open announcement.
     5. On any given motion at a Meeting, the chairperson shall in good faith determine whether to vote by voices (“yay or nay”), a show of hands, or secret ballot. However, if any Member is to request a secret ballot before voting by other methods has begun, voting must then be done by secret ballot for that motion.
     6. Votes by voices that are too close to call may be validated by calling a division, voting using a different method, or recounting.
     7. Unless otherwise noted, a simple majority (more than half) of present and voting Full Members is the fundamental requirement to pass a motion by a vote of the Membership.
@@ -204,6 +213,8 @@ As members of the hacking community, we the representatives of Totally Legit Age
         3. Preventing consideration of a motion;
         4. Amending these Bylaws.
     11. The chairperson shall have the power of the tie-breaking vote. Unless voting is performed by secret ballot, the chairperson openly casts a vote only after the results are known and they want their vote to affect the outcome. If the tie still stands, the vote is lost.
+    12. If a motion has not reached quorum during a meeting, voting must continue outside of the meeting by proxy votes in accordance with these bylaws.  If a motion has not yet reached quorum with proxy votes by the end of the next Meeting, the motion fails.
+    13. Whether or not a motion passes or fails must be communicated to the Member body accordingly.
 
 ## 5. Use of Assets
 1. Notwithstanding anything herein to the contrary, the Hackerspace's money and other assets are dedicated to the furtherance of one or more exempt purposes within the meaning of Section 501(c)(3) of the U.S. Internal Revenue Code.
@@ -220,9 +231,15 @@ As members of the hacking community, we the representatives of Totally Legit Age
 4. If no motion for rejection is called and seconded, the amendment will automatically become eligible for ratification at the expiration of the fourteen (14) day period.
 5. Once an amendment of the Bylaws has been ratified, the executed bylaws (as certified by the Secretary) shall be submitted to the appropriate government agencies.
 
-## 7. Revision History
-1. 1.0 - 1/5/2020 - Ratified Initial Draft Of Bylaws
-2. 2.0 - 10/23/2023 - Reviewed and updated Bylaws with current standards
+## 7. Member Communication
+1. The primary channel of Member communication must be a decentralized, open source communication platform.  Secondary communication channels may be any given medium.  The space may communicate using more than one communication channel at once.
+2. The primary means of Member communication is email, using the email address maintained in the Membership portal.  All official communications from the Space to Members must occur over this channel.
+3. The secondary means of Member communication is Telegram messenger.
+
+## 8. Revision History
+1. 1.0 - 2020-01-05 - Ratified Initial Draft Of Bylaws
+2. 2.0 - 2023-10-23 - Reviewed and updated Bylaws with current standards
+3. 3.0 - 2025-04-01 - Updates to motions and voting to better facilitate asynchronously submitted proposals. Add member communications section.
 
 ## Appendix A - Rules of the Hackerspace
 1. Be excellent to each other - respect your fellow hackers, their privacy and their property. Abide by the Code of Conduct.
