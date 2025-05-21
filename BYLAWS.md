@@ -1,6 +1,6 @@
 # Bylaws of Pawprint Prototyping
 
-Revision 2.0
+Revision 3.0
 
 ## Preamble
 
