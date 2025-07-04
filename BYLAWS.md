@@ -189,32 +189,32 @@ As members of the hacking community, we the representatives of Totally Legit Age
         5. The board shall also begin to solicit proxy votes from members on asynchronously submitted motions as soon as it is advertised to the Member body.  Proxy votes are to be collected in accordance with these bylaws.
         6. Asynchronously submitted motions must be discussed at the next meeting.
 3. Voting
-    3. Teleconferencing members are considered present at a Meeting, count toward quorum and may vote.
-    4. Votes for specific motions may be submitted by proxy. Appropriate proxies include other Members, mail-in (or email-in) voting and open announcement. The vote by proxy only affects the quorum for the motion in question and has no effect on quorum for the rest of the Meeting.
+    1. Teleconferencing members are considered present at a Meeting, count toward quorum and may vote.
+    2. Votes for specific motions may be submitted by proxy. Appropriate proxies include other Members, mail-in (or email-in) voting and open announcement. The vote by proxy only affects the quorum for the motion in question and has no effect on quorum for the rest of the Meeting.
     3. Votes for specific motions may be submitted by proxy.  A vote by proxy only affects the quorum for the motion in question, and has no effect on quorum for the remainder of the meeting.  Appropriate proxies include:
         1. Other Members, elected in writing to the Secretary;
         2. In writing via mail or electronic mail;
         3. Online polling applications managed by the CTO;
         4. Open announcement.
-    5. On any given motion at a Meeting, the chairperson shall in good faith determine whether to vote by voices (“yay or nay”), a show of hands, or secret ballot. However, if any Member is to request a secret ballot before voting by other methods has begun, voting must then be done by secret ballot for that motion.
-    6. Votes by voices that are too close to call may be validated by calling a division, voting using a different method, or recounting.
-    7. Unless otherwise noted, a simple majority (more than half) of present and voting Full Members is the fundamental requirement to pass a motion by a vote of the Membership.
-    8. Two-thirds majority of present and voting Full Members is required to pass motions by vote of the Membership pertaining to:
+    4. On any given motion at a Meeting, the chairperson shall in good faith determine whether to vote by voices (“yay or nay”), a show of hands, or secret ballot. However, if any Member is to request a secret ballot before voting by other methods has begun, voting must then be done by secret ballot for that motion.
+    5. Votes by voices that are too close to call may be validated by calling a division, voting using a different method, or recounting.
+    6. Unless otherwise noted, a simple majority (more than half) of present and voting Full Members is the fundamental requirement to pass a motion by a vote of the Membership.
+    7. Two-thirds majority of present and voting Full Members is required to pass motions by vote of the Membership pertaining to:
         1. Suspending or changing adopted rules;
         2. Closing or limiting debate;
         3. Preventing consideration of a motion;
         4. Limiting the powers of the Board of Directors;
         5. Overturning decisions made by the Board of Directors;
         6. Removing supplemental Director positions from the Board of Directors.
-    9. Unless otherwise noted, a simple majority (more than half) of all active Board Members is the fundamental requirement to pass a Board motion.
-    10. Two-thirds majority of all active Board Members is required to pass Board motions pertaining to:
+    8. Unless otherwise noted, a simple majority (more than half) of all active Board Members is the fundamental requirement to pass a Board motion.
+    9. Two-thirds majority of all active Board Members is required to pass Board motions pertaining to:
         1. Suspending or changing adopted rules;
         2. Closing or limiting debate;
         3. Preventing consideration of a motion;
         4. Amending these Bylaws.
-    11. The chairperson shall have the power of the tie-breaking vote. Unless voting is performed by secret ballot, the chairperson openly casts a vote only after the results are known and they want their vote to affect the outcome. If the tie still stands, the vote is lost.
-    12. If a motion has not reached quorum during a meeting, voting must continue outside of the meeting by proxy votes in accordance with these bylaws.  If a motion has not yet reached quorum with proxy votes by the end of the next Meeting, the motion fails.
-    13. Whether or not a motion passes or fails must be communicated to the Member body accordingly.
+    10. The chairperson shall have the power of the tie-breaking vote. Unless voting is performed by secret ballot, the chairperson openly casts a vote only after the results are known and they want their vote to affect the outcome. If the tie still stands, the vote is lost.
+    11. If a motion has not reached quorum during a meeting, voting must continue outside of the meeting by proxy votes in accordance with these bylaws.  If a motion has not yet reached quorum with proxy votes by the end of the next Meeting, the motion fails.
+    12. Whether or not a motion passes or fails must be communicated to the Member body accordingly.
 
 ## 5. Use of Assets
 1. Notwithstanding anything herein to the contrary, the Hackerspace's money and other assets are dedicated to the furtherance of one or more exempt purposes within the meaning of Section 501(c)(3) of the U.S. Internal Revenue Code.
