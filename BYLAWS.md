@@ -1,6 +1,6 @@
 # Bylaws of Pawprint Prototyping
 
-Revision 3.0
+Revision 4.0
 
 ## Preamble
 
@@ -11,13 +11,30 @@ As members of the hacking community, we the representatives of Totally Legit Age
 1. Pawprint Prototyping’s Mission is to:
     1. Establish and maintain a community space wherein the Hackerspace’s Members may gather, work on projects, collaborate, and share knowledge;
     2. Foster a network for innovative thinking, education, and creative endeavors in our local community and the hacker community at large.
-2. Notwithstanding anything herein to the contrary, Pawprint Prototyping is organized exclusively for charitable, educational, and scientific purposes within the meaning of Section 501(c)(3) of the U.S. Internal Revenue Code.
+2. Notwithstanding anything herein to the contrary, Pawprint Prototyping is organized exclusively for charitable, educational, and scientific purposes within the meaning of Section 501(c)(3) of the U.S. Internal Revenue Code, including but not limited to:
+    1. Through talks, classes, workshops, collaborative projects, and other activities, to encourage research, knowledge exchange, learning, and mentoring in a safe, clean space.
+    2. Provide educational spaces for teaching practical skills and theory of technology, science, and art.
+    3. Provide work space, storage, and other resources for projects related to art, science, and technology that will benefit the individual members' personal growth in their fields of interest, encouraging the individual members to share their projects and knowledge for the betterment of society through art, science and technology.
+    4. To create, learn, and teach, individually and as a group, inviting members of the community in the Santa Clara area and the world.
+    5. To develop, support the development of, and provide resources for the development of free and open source software and hardware for the benefit of society.
+    6. Collaboration across disciplines for the benefit of cultural, charitable, and scientific causes.
+    7. To foster, by all legal means, the common purposes of its participants.
+    8. To conduct or engage in all lawful activities in furtherance of the stated purposes or those incidental to them.
+    9. To educate the public on subjects useful to the individual and beneficial to the community regarding scientific, technical, engineering and artistic skills through individual projects and social collaboration.
 3. Notwithstanding anything herein to the contrary, Pawprint Prototyping shall not, except to an insubstantial degree, engage in any activities or exercise any powers that are in themselves not in furtherance of one or more exempt purposes within the meaning of Section 501(c)(3) of the U.S. Internal Revenue Code.
 4. Pawprint Prototyping shall continuously maintain in the State of California a registered office and a registered agent whose business office, is identical with such registered office. The registered office shall be the physical location of the Hackerspace. In the event that Pawprint Prototyping does not have a physical location, the registered office shall be determined by the Board of Directors.
+5. Pawprint Prototyping is an open, collaborative community of creators and practitioners working toward positive social change.  Pawprint Prototyping chooses to:
+    1. Value open, public discourses over closed, proprietary processes.
+    2. Value access and transparency over exclusivity.
+    3. Value solving real problems over hypotheticals, while respecting visions of the future.
+    4. Value community and collaboration over isolation and competition.
+    5. Value human judgment over automation and efficiency.
+    6. Value do-ocracy over bureaucracy.
+    7. Value safe space over ideology.
 
 ## 2. Users and Members
 1. The Hackerspace shall comprise of the following types of persons (herein also referred to as Users) who may utilize its physical facilities (herein also referred to as the Space):
-    1. Guest - a User who has not signed a Membership Agreement nor has been inducted into the Membership of the Hackerspace, but may sign a Release of Liability;
+    1. Guest - any interested member of the public who has not signed a Membership Agreement nor has been inducted into the Membership of the Hackerspace, but may sign a Release of Liability;
     2. Member - a User that has been accepted into the Membership of the Hackerspace, who pays at least the full monthly Membership Fee and receives all membership benefits, as established in these Bylaws and the current Membership Agreement.
 2. The Users of the Hackerspace are granted the following privileges:
     1. Guests may, upon completing and signing a Release of Liability:
@@ -31,7 +48,10 @@ As members of the hacking community, we the representatives of Totally Legit Age
         5. Be nominated and elected onto the Board of Directors;
         6. Enjoy any other privileges of Full Membership as listed in the current Membership Agreement.
 3. Members have the following obligations and responsibilities:
-    1. Support the Mission and Purpose of the Hackerspace;
+    1. Support the Mission and Purpose of the Hackerspace, including but not limited to:
+        1. Opening the space to provide equitable access of the facility to members of the public;
+        2. Completing all required orientation and education;
+        3. Providing education and mentorship by conducting talks, classes, workshops, collaborative projects;
     2. Follow the Rules of the Hackerspace;
     3. Follow the contractual obligations of the Membership Agreement and associated documents;
     4. Disclose all pertinent conflicts of interest in matters concerning Hackerspace business.
@@ -240,6 +260,7 @@ As members of the hacking community, we the representatives of Totally Legit Age
 1. 1.0 - 2020-01-05 - Ratified Initial Draft Of Bylaws
 2. 2.0 - 2023-10-23 - Reviewed and updated Bylaws with current standards
 3. 3.0 - 2025-04-01 - Updates to motions and voting to better facilitate asynchronously submitted proposals. Add member communications section.
+4. 4.0 - 2025-08-25 - Expanded purpose to describe mission-supporting activities, clarify public access, maintain safety of the space.
 
 ## Appendix A - Rules of the Hackerspace
 1. Be excellent to each other - respect your fellow hackers, their privacy and their property. Abide by the Code of Conduct.
@@ -251,7 +272,7 @@ As members of the hacking community, we the representatives of Totally Legit Age
 7. Use common sense and personal responsibility in the Space
 8. Do not use tools you are not authorized to use
 9. Err on the side of doing things - if you want to do something at Pawprint Prototyping, just do it
-10. Vouch only for guests you’d welcome in your own home
+10. Maintain safety and decorum of the space by holding others accountable to these rules
 
 ## Appendix B - Code of Conduct
 The Pawprint Prototyping Code of Conduct is forked from the !!Con Code of Conduct. It reads as follows:
