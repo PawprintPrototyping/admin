@@ -245,7 +245,7 @@ As members of the hacking community, we the representatives of Totally Legit Age
     2. Upon the dissolution of the Hackerspace, assets shall be distributed for one or more exempt purposes within the meaning of section 501(c)(3) of the Internal Revenue Code of 1986, (or the corresponding section of any future federal tax code) or shall be distributed to the federal government, or to a state or local government, for a public purpose. Any such assets not so disposed of shall be disposed of by a court of competent jurisdiction of the county in which the principal office of the Hackerspace is then located, exclusively for such purposes or to such organization or organizations, as said court shall determine, which are organized and operated exclusively for such purposes.
 
 ## 6. Amendment
-1. These Bylaws may be amended when necessary by a Board vote.
+1. These Bylaws may be amended when necessary by a Board vote, or Board approval by any electronic means deemed acceptable to the Secratry.
 2. All amendments approved by Board vote shall be presented to the Membership for review at the Monthly Meeting following the vote and announced on the appropriate Membership Communication Channel thereafter. Members have fourteen (14) days from the date and time of this meeting to motion for a rejection of the amendment.
 3. If the motion for rejection of the amendment is called and seconded, the amendment may not be ratified until motion's vote is resolved. 
 4. If no motion for rejection is called and seconded, the amendment will automatically become eligible for ratification at the expiration of the fourteen (14) day period.
