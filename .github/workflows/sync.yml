@@ -16,7 +16,7 @@ jobs:
       - name: Setup SSH key
         run: |
             mkdir -p ~/.ssh
-            chmod 700 .ssh
+            chmod 700 ~/.ssh
             echo "git.disroot.org ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBl6QhMLV//e4QkBnkk8eyFbL1B0CTrJ1HiTaqncGSv1" >> ~/.ssh/known_hosts
             echo "${{ secrets.DISROOT_SSH_PRIVATE_KEY }}" > ~/.ssh/forge.key
             chmod 400 ~/.ssh/forge.key
