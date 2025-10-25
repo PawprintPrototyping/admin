@@ -32,8 +32,11 @@ jobs:
       - name: Push main branch
         run: |
             git config pull.ff only
-            git fetch ssh://git@git.disroot.org/PawprintPrototyping/admin.git
-            git pull ssh://git@git.disroot.org/PawprintPrototyping/admin.git main
-            git push --force ssh://git@git.disroot.org/PawprintPrototyping/admin.git main
-            git push origin main
+            git remote add forge ssh://git@git.disroot.org/PawprintPrototyping/admin.git
+            git fetch 
+            git pull forge main
+            git push forge main 
+            
+            # We need GH credentials to do this again, so let's make the sync one way for now.
+            #git push origin main
 
