@@ -32,6 +32,6 @@ jobs:
       - name: Push main branch
         run: |
             git config --unset-all http.https://github.com/.extraheader
-            git push --force-with-lease ssh://git@git.disroot.org/PawprintPrototyping/admin.git main
+            git push ssh://git@git.disroot.org/PawprintPrototyping/admin.git main
 
 
