@@ -13,7 +13,7 @@ jobs:
       - name: Checkout main
         uses: actions/checkout@v2
         with:
-          ref: main
+          fetch-depth: 0
           persist-credentials: false
 
       - name: Setup SSH key
@@ -32,9 +32,6 @@ jobs:
       - name: Push main branch
         run: |
             git config --unset-all http.https://github.com/.extraheader
-            git config pull.ff only
-
-            git pull ssh://git@git.disroot.org/PawprintPrototyping/admin.git main 
             git push --force-with-lease ssh://git@git.disroot.org/PawprintPrototyping/admin.git main
 
 
