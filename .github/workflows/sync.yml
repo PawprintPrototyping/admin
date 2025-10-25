@@ -24,7 +24,7 @@ jobs:
             echo "Host git.disroot.org
             Hostname git.disroot.org
             IdentityFile ~/.ssh/forge.key
-            IdentitiesOnly yes" > ~/.ssh/ssh_config
+            IdentitiesOnly yes" > ~/.ssh/config
 
       - name: Push main branch
         run: |
