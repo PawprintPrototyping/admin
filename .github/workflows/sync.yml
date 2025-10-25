@@ -1,0 +1,29 @@
+name: Sync github repo with Forgejo
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    name: Sync git repo
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v2
+
+      - name: Setup SSH key
+        run: -|
+            echo "git.disroot.org ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBl6QhMLV//e4QkBnkk8eyFbL1B0CTrJ1HiTaqncGSv1" >> ~/.ssh/known_hosts
+            echo "${{ secrets.DISROOT_SSH_PRIVATE_KEY }}" > ~/.ssh/forge.key
+            chmod 400 ~/.ssh/forge.key
+            ssh-add ~/.ssh/forge.key
+
+      - name: Push main branch
+        run: -|
+            git config --unset-all http.https://github.com/.extraheader
+            
+            git push ssh://git@git.disroot.org/PawprintPrototyping/admin.git main
+
+
