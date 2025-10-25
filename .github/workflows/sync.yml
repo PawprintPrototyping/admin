@@ -34,6 +34,6 @@ jobs:
             git config pull.ff only
             git fetch ssh://git@git.disroot.org/PawprintPrototyping/admin.git
             git pull ssh://git@git.disroot.org/PawprintPrototyping/admin.git main
-            git push --force-with-lease ssh://git@git.disroot.org/PawprintPrototyping/admin.git main
+            git push --force ssh://git@git.disroot.org/PawprintPrototyping/admin.git main
             git push origin main
 
