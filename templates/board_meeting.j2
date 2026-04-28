@@ -1,0 +1,26 @@
+---
+event_name: "Board Meeting"
+output_dir: "board/agendas"
+meeting_type: "Board Meeting"
+---
+# Board Meeting Agenda {{ month_name }} {{ day_plain }}, {{ year }}
+
+## Attendees
+
+### Space Management
+
+#### Tech
+
+#### Finances
+
+### Events
+
+### Corporate Filings
+
+### Motions and Voting
+
+## Next Meeting Date
+{% if next_meeting_date %}- {{ next_meeting_weekday }}, 19:00, {{ next_meeting_month_name }} {{ next_meeting_day_ordinal }}.{% endif %}
+
+## Sidebars
+
