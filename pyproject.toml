@@ -1,0 +1,18 @@
+[project]
+name = "agenda-generator"
+version = "0.1.0"
+description = "Automated meeting agenda generation for Pawprint Prototyping"
+requires-python = ">=3.11"
+dependencies = [
+    "google-api-python-client",
+    "google-auth",
+    "Jinja2",
+    "python-frontmatter",
+    "requests",
+]
+
+[dependency-groups]
+dev = [
+    "pytest",
+    "hypothesis",
+]
